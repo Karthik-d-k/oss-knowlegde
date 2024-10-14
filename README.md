@@ -1,5 +1,8 @@
 # oss-knowlegde
-
+https://opensource.org
+https://opensource.org/osd\
+www,fsf.org
+https://opensource.org/licenses
 ### Website
 
 - https://github.com/
@@ -46,4 +49,18 @@
 ### Scoial Networking Services
 - https://www.eventbrite.com/
 - https://www.meetup.com/
+
+### OSS Social Infrastructure
+https://en.wikipedia.org/wiki/Bus_factor
+https://vote.heliosvoting.org
+https://www.apache.org/foundation/voting.html
+https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations
+
+### Release
+https://semver.org
+https://harihareswara.net/posts/2024/changelogs-and-release-notes/
+https://infra.apache.org/release-signing.html
+https://www.gnupg.org
+  https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf
+  https://opentechstrategies.com/archetypes
   
