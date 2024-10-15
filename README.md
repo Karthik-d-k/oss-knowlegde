@@ -65,4 +65,5 @@
 ### MISC
 - https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf
 - https://opentechstrategies.com/archetypes
+- https://choosealicense.com
   
