@@ -1,10 +1,10 @@
 # oss-knowlegde
-https://opensource.org
-https://opensource.org/osd\
-www,fsf.org
-https://opensource.org/licenses
+- https://opensource.org
+- https://opensource.org/osd\
+- www,fsf.org
+- https://opensource.org/licenses
+- 
 ### Website
-
 - https://github.com/
 - https://en.wikipedia.org/wiki/Comparison_of_open_source_software_hosting_facilities
 - https://gitlab.com/
