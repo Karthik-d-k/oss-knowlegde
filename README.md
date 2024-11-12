@@ -68,3 +68,7 @@
 - https://choosealicense.com
 - https://dwheeler.com/#oss
   
+# Recap
+- What Criteria could be used to describe a successfull open-source project?
+
+#
